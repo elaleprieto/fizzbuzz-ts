@@ -1,4 +1,4 @@
-# mocha-test
+# Jest tests based on mocha-test boilerplate
 Boilerplate for Mocha tests
 
 This repository is in support of my YouTube tutorial on writing tests in Mocha and Chai for your JavaScript projects. Watch the full video [here](https://youtu.be/Rumf96j0cR0).
